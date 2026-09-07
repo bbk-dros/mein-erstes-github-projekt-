@@ -1,9 +1,3 @@
-## Mein Lieblingsfach 
- 
-Mein Lieblingsfach ist: __________ 
- 
-## Mein Ziel 
- 
-Ich möchte mit GitHub lernen, wie man gemeinsam an Projekten arbeitet. 
+Ich teste gerade Branches auf GitHub. 
   
-Speichere die Änderung mit einem neuen Commit. 
+Speichere auch diese Änderung. 
