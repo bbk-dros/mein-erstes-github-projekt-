@@ -7,3 +7,9 @@ Mein Lieblingsfach ist: __________
 Ich möchte mit GitHub lernen, wie man gemeinsam an Projekten arbeitet. 
   
 Speichere die Änderung mit einem neuen Commit. 
+
+## Meine Änderung 
+ 
+Diese Änderung habe ich in meinem eigenen Branch erstellt. 
+  
+
