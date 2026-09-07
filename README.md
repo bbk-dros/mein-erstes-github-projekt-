@@ -1,14 +1,9 @@
-# Mein erstes GitHub-Projekt 
+## Mein Lieblingsfach 
  
-Hallo! Ich lerne gerade GitHub. 
+Mein Lieblingsfach ist: __________ 
  
-## Über mich 
+## Mein Ziel 
  
-Name: fiktiver Name  
-Klasse:  
- 
-## Das möchte ich lernen 
- 
-- GitHub verstehen 
-- Dateien bearbeiten 
-- Mit anderen zusammenarbeiten 
+Ich möchte mit GitHub lernen, wie man gemeinsam an Projekten arbeitet. 
+  
+Speichere die Änderung mit einem neuen Commit. 
